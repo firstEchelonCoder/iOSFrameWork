@@ -1,0 +1,2 @@
+# iOSFrameWork
+一个iOS开发的基本框架，包括AFNetworking的封装、MBProgressHUD的封装、常用的类的封装等等，可以做到拿来即用，无需另行配置

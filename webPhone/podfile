@@ -1,0 +1,14 @@
+platform :ios, '10.0'
+target 'webPhone' do
+
+pod 'AFNetworking'
+pod 'Masonry'
+pod 'LookinServer', :configurations => ['Debug']
+pod 'QMUIKit'
+pod 'IQKeyboardManager'
+pod 'TABAnimated'
+pod 'SDCycleScrollView'				##轮播图
+pod 'MJExtension'
+pod 'MBProgressHUD'
+
+end

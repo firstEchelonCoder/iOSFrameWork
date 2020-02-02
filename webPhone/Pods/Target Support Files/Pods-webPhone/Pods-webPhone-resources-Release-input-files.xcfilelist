@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-webPhone/Pods-webPhone-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardManager/IQKeyboardManager.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/QMUIKit/QMUIResources.bundle
+${PODS_ROOT}/TABAnimated/AnimatedDemo/AnimatedDemo/TABAnimated/Reveal/Source/TabAnimatedLogo.png
+${PODS_ROOT}/TABAnimated/AnimatedDemo/AnimatedDemo/TABAnimated/Reveal/Source/tab_reveal_close.png
+${PODS_ROOT}/TABAnimated/AnimatedDemo/AnimatedDemo/TABAnimated/Reveal/Source/tab_reveal_close_bigger.png
